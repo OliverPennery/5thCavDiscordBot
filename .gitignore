@@ -5,3 +5,5 @@
 *.ipr
 venv
 
+config.json
+*.pyc
