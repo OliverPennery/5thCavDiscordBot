@@ -8,3 +8,4 @@ pygeoip>=0.3.2
 psutil>=5.6.6
 scipy
 numpy
+colorama>=0.4.4
